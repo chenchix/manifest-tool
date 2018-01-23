@@ -21,7 +21,7 @@ import (
 	"github.com/docker/docker/registry"
 	"github.com/opencontainers/go-digest"
 
-	"github.com/estesp/manifest-tool/types"
+	"github.com/chenchix/manifest-tool/types"
 )
 
 // we will store up a list of blobs we must ask the registry

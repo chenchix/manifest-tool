@@ -8,8 +8,8 @@ import (
 
 	"github.com/Sirupsen/logrus"
 	"github.com/codegangsta/cli"
-	"github.com/estesp/manifest-tool/docker"
-	"github.com/estesp/manifest-tool/types"
+	"github.com/chenchix/manifest-tool/docker"
+	"github.com/chenchix/manifest-tool/types"
 	"github.com/go-yaml/yaml"
 
 	"github.com/docker/distribution/manifest/manifestlist"

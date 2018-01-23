@@ -17,7 +17,7 @@ import (
 	"github.com/docker/docker/image/v1"
 	"github.com/docker/docker/reference"
 	"github.com/docker/docker/registry"
-	"github.com/estesp/manifest-tool/types"
+	"github.com/chenchix/manifest-tool/types"
 	"golang.org/x/net/context"
 )
 
